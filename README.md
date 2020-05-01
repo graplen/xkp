@@ -1,7 +1,8 @@
 # rzy-panel
 **Rzy Panel** is an **user panel** for your programs developed on top of [PHP] 
 
-**NOTE: I made the php part only, not the HTML and css.
+**NOTE: I made the php part only, not the HTML and css.**
+By the way, the code look bad somewhere, but this is the life this project hasn't been finished since a while.
 
 ### Important
 - **You are not allowed to rename it and call it your own**
