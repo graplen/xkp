@@ -1,6 +1,8 @@
 # rzy-panel
 **Rzy Panel** is an **user panel** for your programs developed on top of [PHP] 
 
+**NOTE: I made the php part only, not the HTML and css.
+
 ### Important
 - **You are not allowed to rename it and call it your own**
 - **You are not allowed to modify the repository and re-release it, you can only fork it**
@@ -30,6 +32,7 @@
 ### Credits / Thanks
 - [Me](https://rzy.be) for:
     - Development
+- The HTML designer who made the design (took it on an html 5 template website)
 
 ### Requirements
 This order also applies in the startup order.
