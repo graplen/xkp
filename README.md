@@ -19,6 +19,7 @@ By the way, the code look bad somewhere, but this is the life this project hasn'
 - Secure login
 - Secure register
 - Mysql compatibility 
+- Page controller
 - Dashboard:
   - Announcements (need to make it on database, will update later maybe)
   - Changelogs (same)
